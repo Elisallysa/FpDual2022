@@ -1,6 +1,6 @@
 public class IsNotHelloException extends Exception {
 
-	public isNotHelloException(String message) {
+	public IsNotHelloException(String message) {
 		super(message);
 	}
 
